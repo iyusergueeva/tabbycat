@@ -61,7 +61,7 @@ We haven't released Tabbycat under an open-source licence, so there is no formal
 
 Tabbycat was authored by Qi-Shan Lim for Auckland Australs in 2010. The current active developers are:
 
-- Philip Belesky
+- Philip Belesk
 - Chuan-Zheng Lee
 - Étienne Beaulé
 
